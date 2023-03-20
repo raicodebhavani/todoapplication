@@ -9,6 +9,12 @@
   color: white;
   background-color: black;
 }
+@media screen and (max-width: 425px) {
+  .list {
+    margin-right: 20px;
+  }
+}
+
 .checking {
   width: 20px;
   text-align: center;
