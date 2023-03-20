@@ -1,0 +1,31 @@
+.list {
+  list-style-type: none;
+  margin-left: 460px;
+  padding: 7px;
+  border: 1px solid rgb(88, 85, 85);
+  margin-right: 490px;
+  border-radius: 10px;
+  margin-top: 5px;
+  color: white;
+  background-color: black;
+}
+.checking {
+  width: 20px;
+  text-align: center;
+  margin-right: 20px;
+}
+h1 {
+  color: white;
+}
+.divi {
+  text-align: center;
+
+  margin-top: 10px;
+}
+.labeling {
+  width: 120px;
+  text-align: start;
+}
+.strike {
+  text-decoration: line-through;
+}
