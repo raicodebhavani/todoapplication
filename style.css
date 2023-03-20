@@ -11,7 +11,7 @@
 }
 @media screen and (max-width: 425px) {
   .list {
-    margin-right: 20px;
+    margin-right: 0;
   }
 }
 
